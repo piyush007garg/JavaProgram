@@ -25,7 +25,7 @@ public class swipeNumber {
 		System.out.println("After swap:");
 		System.out.println("x value: " + a);
 		System.out.println("y value: " + b);
-
+		System.out.println("Happy Ending");
 	}
 
 }
